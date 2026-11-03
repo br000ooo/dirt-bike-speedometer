@@ -3,7 +3,7 @@ A rechargeable, handlebar-mounted speedometer for dirt bikes. A wheel magnet and
 
 Status: In planning. I'm building a cardboard mockup of the case to test size and fit. CAD, wiring, and firmware come next.
 
- ![Cardboard front view](Images/Cardboard%prototype%#5.jpeg)
+ ![Cardboard front view](Images/Cardboard_prototype_#5.jpeg)
 Why I'm building this
 
 My dirt bike has no battery, so a normal speedometer won't work. I wanted a unit that carries its own battery, mounts to the handlebars, and comes off easily to charge. It shows speed and nothing else, in big digits, so I can keep my eyes on the trail instead of squinting at a screen.
