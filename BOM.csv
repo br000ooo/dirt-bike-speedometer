@@ -1,0 +1,12 @@
+Part,Qty,Unit price (USD),Total (USD),Link,Notes
+Seeed XIAO ESP32-C3,1,4.99,4.99,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html,Wi-Fi and Bluetooth LE board with battery charging
+Adafruit 7-segment display driver,1,6.95,6.95,https://www.adafruit.com/product/877,I2C driver board for the display
+Adafruit red 4-digit display (1.2 in),1,7.50,7.50,https://www.adafruit.com/product/1264,Shows the speed
+3.7 V 1200 mAh protected LiPo battery,1,9.95,9.95,https://www.adafruit.com/product/258,Rechargeable battery
+Hall effect sensor module,1,5.00,5.00,https://www.amazon.com/s?k=A3144+Hall+effect+sensor+module,Must work at 3.3 V with a safe 3.3 V output; exact part TBD
+Small neodymium disc magnet,1,2.00,2.00,https://www.amazon.com/s?k=small+neodymium+disc+magnet,Low end of the $2-4 estimate
+Heat-shrink pack,1,4.95,4.95,https://www.adafruit.com/product/344,Insulates solder joints
+Jumper wires,1,1.95,1.95,https://www.adafruit.com/product/5018,Prototyping wire
+JST-PH 2-pin cable,1,1.00,1.00,https://www.adafruit.com/category/916,Optional lead for the XIAO battery pads
+Printed enclosure (nylon),1,,,,Price and print service TBD; needs the CAD file for a quote
+Total before case/tax/shipping,,,44.29,,
